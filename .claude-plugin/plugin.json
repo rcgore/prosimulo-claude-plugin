@@ -1,0 +1,10 @@
+{
+  "name": "prosimulo-ai-data",
+  "displayName": "ProSimulo AI Data",
+  "version": "1.0.0",
+  "description": "Save, organize, and retrieve selected information from AI conversations using your ProSimulo AI Data account. Review and confirm proposed changes before they are saved.",
+  "author": {"name": "PROSIMULO LLC", "email": "admin@prosimulo.com", "url": "https://prosimulo.ai"},
+  "homepage": "https://prosimulo.ai",
+  "repository": "https://github.com/rcgore/prosimulo-claude-plugin",
+  "license": "Proprietary"
+}
